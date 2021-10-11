@@ -31,6 +31,7 @@ h5{
 }
 .merchandise{
     font-size: 21pt;
+    font-family: courier;
     color:#fa8072;
 }
 .pagelinks{
@@ -43,6 +44,9 @@ background-color: #00ff00;
 
 #myName{
     background-color: #f3bbf1;
+}
+div > em{
+    color:#bc8f8f;
 }
 
 
