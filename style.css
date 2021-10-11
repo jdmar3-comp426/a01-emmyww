@@ -25,6 +25,10 @@ h5{
     font-size: 20pt;
     font-family: courier;
 }
+.merchandise{
+    font-size: 21pt;
+    color:#fa8072;
+}
 .pagelinks{
     font-family: courier;
 }
@@ -37,10 +41,7 @@ background-color: #00ff00;
     background-color: #f3bbf1;
 }
 
-.merchandise{
-    font-size: 21;
-    color:#fa8072;
-}
+
 
 
 
