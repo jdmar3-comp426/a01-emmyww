@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+    background-color:#f5f5dc;
+    color:#0000ff;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 40pt;
+    border: 4px solid #87cefa;
+}
+h2{
+    text-decoration: underline;
+    font-size: 25pt;
+}
+h5{
+    font-size: 20pt;
+    font-style: italic;
+}
+.description{
+    display: block;
+    margin: auto;
+    width: 600pt;
+    font-size: 20pt;
+    font-family: courier;
+}
+.pagelinks{
+    font-family: courier;
+}
+
+a:hover{
+background-color: #00ff00;
+}
+
+#myName{
+    background-color: #f3bbf1;
+}
+
+
+
+
