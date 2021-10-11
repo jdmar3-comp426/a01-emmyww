@@ -7,11 +7,12 @@ h1, h2, h3, h4, h5, h6 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .main{
-    background-color: #f3bbf1;
+    font-size: 45pt;
 }
 h1{
     font-size: 40pt;
     border: 4px solid #87cefa;
+    background-color: #f3bbf1;
 }
 h2{
     text-decoration: underline;
